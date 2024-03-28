@@ -8,10 +8,15 @@ Hey there! I'm a Full-Stack Web Developer currently located in Paris, France ðŸ‡
 I'm passionate about resolving bugs and developping new features for exciting projects !
 
 ðŸ’» My Tech Stack
+
 Front End: HTML5, CSS3, JavaScript (ES6+), React, Angular, Tailwindcss
+
 Back End: Node.js, Express, PHP, Laravel, Python
+
 Mobile Development:  Swift, Kotlin
+
 Databases: MySQL, MongoDB
+
 Version Control: Git, GitHub
 
 
