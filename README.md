@@ -21,16 +21,19 @@ Version Control: Git, GitHub
 
 
 ✨ What I Love
+
 I thrive on tackling challenging problems, relishing the satisfaction that comes with finding solutions. I enjoy creating and adding features to interesting projects.
 
 🌎 A Little More About Me
+
 Apart from coding I enjoy sci-fi and creating art through sketches and waterpainting. 
 
 📬 Get In Touch
+
 Feel free to reach out to me through any of the following channels:
+
 🔗 Links
 
-portfolio linkedin twitter
 I'm always open to new opportunities, collaborations, or just a friendly chat. Let's connect!
 
 
