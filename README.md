@@ -4,7 +4,7 @@ Hello, I'm Zoe Codda! 🙃
 
 🚀 About Me
 
-Hey there! I'm a Full-Stack Web Developer currently located in Paris, France 🇫🇷.
+Hey there! I'm a AI student currently located in Paris, France 🇫🇷.
 I'm passionate about resolving bugs and developping new features for exciting projects !
 
 💻 My Tech Stack
@@ -26,15 +26,8 @@ I thrive on tackling challenging problems, relishing the satisfaction that comes
 
 🌎 A Little More About Me
 
-Apart from coding I enjoy sci-fi and creating art through sketches and waterpainting. 
+Apart from coding I enjoy sci-fi, polars and horror movies. 
 
-📬 Get In Touch
-
-Feel free to reach out to me through any of the following channels:
-
-🔗 Links
-
-I'm always open to new opportunities, collaborations, or just a friendly chat. Let's connect!
 
 
 Other Common Github Profile Sections
